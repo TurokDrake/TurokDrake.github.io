@@ -1220,7 +1220,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c15b21;
+  background: #b1a878;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2620,47 +2620,52 @@ ul.breadcrumb li + li:last-child {
    Author: ChatGPT
 ===================================================== */
 /* ---------- 全局 ---------- */
-body {
+/*body {
   background: #0d1117;
   color: #c9d1d9;
 }
+
 .main {
   background: #0d1117;
 }
+
 .header {
   background: #161b22;
 }
+
 .sidebar {
   background: #161b22;
 }
+
 .footer {
   background: #161b22;
 }
+*/
 /* ---------- 链接 ---------- */
-a {
+/*a {
   color: #58a6ff;
-  transition: 0.2s;
+  transition: .2s;
 }
+
 a:hover {
   color: #79c0ff;
 }
+*/
 /* ---------- 标题 ---------- */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #f0f6fc;
+/*h1,h2,h3,h4,h5,h6{
+  color:#f0f6fc;
 }
-.post-title {
-  color: #f0f6fc;
+
+.post-title{
+  color:#f0f6fc;
 }
+*/
 /* ---------- 文章 ---------- */
-.post-body {
-  line-height: 1.9;
-  font-size: 16px;
+/*.post-body{
+  line-height:1.9;
+  font-size:16px;
 }
+*/
 /* ---------- 行内代码 ---------- */
 code {
   background: #21262d;
@@ -2732,17 +2737,21 @@ hr {
   padding: 10px;
 }
 /* ---------- Sidebar ---------- */
-.sidebar {
-  border-left: 1px solid #30363d;
+/*
+.sidebar{
+  border-left:1px solid #30363d;
 }
+*/
 /* ---------- 搜索框 ---------- */
-.search-popup {
-  background: #161b22;
+/*.search-popup{
+  background:#161b22;
 }
-.search-popup input {
-  background: #0d1117;
-  color: #c9d1d9;
+
+.search-popup input{
+  background:#0d1117;
+  color:#c9d1d9;
 }
+*/
 /* ---------- 返回顶部 ---------- */
 .back-to-top {
   background: #21262d;
@@ -2803,13 +2812,13 @@ hr {
   display: none;
 }
 /* ---------- 文章卡片悬浮效果 ---------- */
-.post-block {
-  transition: all 0.3s ease;
-}
-.post-block:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-}
+/*.post-block
+  transition: all .3s ease
+
+  &:hover
+    transform: translateY(-5px)
+    box-shadow: 0 8px 20px rgba(0,0,0,.15)
+*/
 /* ---------- 图片点击放大效果 ---------- */
 .post-body img {
   border-radius: 10px;
