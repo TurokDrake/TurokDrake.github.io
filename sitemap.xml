@@ -4,7 +4,7 @@
   <url>
     <loc>https://turokfang.top/posts/Scoop%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://turokfang.top/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +48,28 @@
   
   <url>
     <loc>https://turokfang.top/tags/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://turokfang.top/tags/Scoop/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://turokfang.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://turokfang.top/tags/Windows/</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -56,8 +77,8 @@
 
   
   <url>
-    <loc>https://turokfang.top/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <loc>https://turokfang.top/categories/%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
